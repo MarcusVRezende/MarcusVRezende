@@ -32,18 +32,3 @@
 | :--- | :--- | :--- |
 | **[Pincel Mágico](https://github.com/MarcusVRezende/Pincel-Magico)** | Site institucional responsivo desenvolvido como freelancer. Foco em performance, UX e conversão. | ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E) |
 | **[SeLiga](https://github.com/unb-mds/2025-2-SeLiga)** | Portal de verificação de notícias usando Inteligência Artificial (Gemini API) para combate a Fake News. | ![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=47A248) |
-
-<div align="center">
-  <h3>📫 Contatos </h3>
-  <p>
-    Estou sempre aberto a novas oportunidades e projetos.
-  </p>
-  
-  <a href="https://www.linkedin.com/in/marcus-vrezende" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
- <a href="mailto:marcusviniciusxmvr@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-</div>
