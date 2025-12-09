@@ -1,18 +1,12 @@
-<div align="center">
+<div align="left">
   <h2>Olá, eu sou o Marcus Vinícius! 👋</h2>
-  
   <p>
-    Estudante de Engenharia de Software na UnB e Desenvolvedor Front-end.<br>
+    Estudante de Engenharia de Software na UnB e Desenvolvedor Front-end.
     Gosto de unir design e funcionalidade para criar aplicações que resolvem problemas reais.
-  </p>
-
-  <p>
     Atualmente estou focado em <b>React.js</b> e explorando o mundo do <b>Full Stack</b> e <b>Inteligência Artificial</b>.
   </p>
-
-  <br>
-
-  <h3>🛠️ Tecnologias </h3>
+  
+  <h3  align="center" >🛠️ Tecnologias </h3>
   <p align="center">
     <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     &nbsp;&nbsp;
@@ -31,8 +25,6 @@
     <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </p>
 </div>
-
-<br>
 
 ### 🚀 Projetos em Destaque
 
