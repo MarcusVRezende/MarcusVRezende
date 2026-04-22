@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h2>Olá, eu sou o Marcus Vinícius! 👋</h2>
   <p>
     Estudante de Engenharia de Software na UnB e Desenvolvedor Front-end.
@@ -6,24 +6,19 @@
     Atualmente estou focado em <b>React.js</b> e explorando o mundo do <b>Full Stack</b> e <b>Inteligência Artificial</b>.
   </p>
   
-  <h3  align="center" >🛠️ Tecnologias </h3>
-  <p align="center">
-    <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    &nbsp;&nbsp;
-    <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    &nbsp;&nbsp;
-    <img align="center" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-    &nbsp;&nbsp;
-    <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    &nbsp;&nbsp;
-    <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    &nbsp;&nbsp;
-    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    &nbsp;&nbsp;
-    <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    &nbsp;&nbsp;
-    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </p>
+  <br />
+
+  <h3>🛠️ Tecnologias</h3>
+ <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div>
 </div>
 
 ### 🚀 Projetos em Destaque
